@@ -18,6 +18,10 @@ const menu = fs.readFileSync(menuPath, "utf-8");
 const pathConsultas = path.join(__dirname, "mensajes", "promptConsultas.txt");
 const promptConsultas = fs.readFileSync(pathConsultas, "utf-8");
 
+
+console.log("MONGO_DB_URI =", process.env.MONGO_DB_URI);
+process.exit(0);
+
 // ----------------------
 // Verificación de variables de entorno
 // ----------------------
