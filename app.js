@@ -126,7 +126,7 @@ const main = async () => {
       console.log("MONGO_DB_URI:", process.env.MONGO_DB_URI);
       console.log("OPENAI_API_KEY:", process.env.OPENAI_API_KEY);
         const adapterDB = new MongoAdapter({
-            dbUri: process.env.MONGO_DB_URI,
+            dbUri: process.env.Mongo_DB_URI,
             dbName: "youtubetest"
 
         })
