@@ -1,0 +1,48 @@
+[
+  {
+    "ref": "ans_ba110250-a02b-422e-b9b2-5795d6829c0c",
+    "keyword": "key_09a26b03-b8b8-4227-9b8f-e404f8a387f3",
+    "answer": "Elegi alguna de estas opciones:\r\n\r\nOpcion 1 - Menu \r\nOpcion 2 - Reservar mesa\r\nOpcion 3 - Hacer Consultas\r\n\r\n\r\nOpcion 0 - Salir\r\n\r\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a8fed9b3a065dc844fea9c94bf44afa9",
+    "from": "59160874634"
+  },
+  {
+    "ref": "8d914ac7-4a1c-4ccf-be7e-44fba5958da6",
+    "keyword": "a8fed9b3a065dc844fea9c94bf44afa9",
+    "answer": "2",
+    "options": {},
+    "from": "59160874634",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_fdaff0f1-d665-4958-9cb8-31046c246ba6",
+    "keyword": "key_66d76ce6-5bf8-4ce0-b189-b1afc989e299",
+    "answer": "🙌 este es el de reservar: www.hacetureservas",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0bfd3f7edac619d560a1338ede8d20bd",
+    "from": "59160874634"
+  }
+]

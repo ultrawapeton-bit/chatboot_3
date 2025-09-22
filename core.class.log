@@ -1,0 +1,136 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59160874634@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACFB05485ED04EAE99B2FC0C598B2ACD',
+    participant: undefined
+  },
+  messageTimestamp: 1758309847,
+  pushName: 'dandyel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '59160874634'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33fb56db-2c14-41c7-bfac-5fbd1f1f3c1c',
+  keyword: 'key_ea3e3034-661b-47a2-9adb-22bc5a5698bc',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu \r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer Consultas\r\n' +
+    '\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir\r\n' +
+    '\r\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cbb51fb2f1835822d8d3de90a4d4a673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59160874634@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC97CC3743A6DA897D1D86A4A7CFAB68',
+    participant: undefined
+  },
+  messageTimestamp: 1758309851,
+  pushName: 'dandyel',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '59160874634'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59160874634@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC135E963E020AB1B172DF8F9A71B564',
+    participant: undefined
+  },
+  messageTimestamp: 1758309865,
+  pushName: 'dandyel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero saber mas informacion de las comidad venganas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quiero saber mas informacion de las comidad venganas',
+  from: '59160874634'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59160874634@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC4CE23B4F9DFC10ED8E8887A42C99B0',
+    participant: undefined
+  },
+  messageTimestamp: 1758317972,
+  pushName: 'dandyel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '59160874634'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_33fb56db-2c14-41c7-bfac-5fbd1f1f3c1c',
+  keyword: 'key_ea3e3034-661b-47a2-9adb-22bc5a5698bc',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu \r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer Consultas\r\n' +
+    '\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir\r\n' +
+    '\r\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cbb51fb2f1835822d8d3de90a4d4a673'
+}
