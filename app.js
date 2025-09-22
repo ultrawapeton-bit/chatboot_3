@@ -128,6 +128,8 @@ const main = async () => {
             dbName: "youtubetest"
 
         })
+        await adapterDB.dbConnect();
+        console.log("✅ Conectado a MongoDB Atlas correctamente");
         const adapterFlow = createFlow([flowWelcome, menuFlow, flowMenuRest, flowReservar, flowConsultas, flowVoice])
         const adapterProvider = createProvider(BaileysProvider)
 
